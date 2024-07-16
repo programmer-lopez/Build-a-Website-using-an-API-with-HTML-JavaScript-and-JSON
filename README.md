@@ -1,0 +1,1 @@
+En este proyecto de Coursera, aprenderás a construir un sitio web interactivo utilizando HTML, JavaScript y JSON. El enfoque principal será el consumo de una API para obtener datos dinámicos y presentarlos en tu sitio web de manera atractiva y funcional.
