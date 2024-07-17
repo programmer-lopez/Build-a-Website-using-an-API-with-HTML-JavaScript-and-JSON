@@ -1,4 +1,35 @@
 body {
+    margin: 0;
     background-color: #d7d7d7;
     color: black;
+    text-align: center;
+}
+img {
+    width: 100%;
+  }
+.section-heading{
+    margin-bottom: 1rem;
+}
+.section-heading{
+    margin-top: 3rem;
+}
+.section-heading{
+    font-size: 3.3em;
+}
+h1{
+    color: #ff0;
+    text-shadow: .03125in .1875pc .625pc black;
+}
+.section-subheading{
+    margin-bottom: 2rem;
+}
+.section-subheading{
+    margin-top: 2rem;
+}
+.section-subheading{
+    font-size: 2rem;
+    color: white;
+}
+h2{
+    text-shadow: 2.25pt 2.25pt .625pc black;
 }
